@@ -1,0 +1,91 @@
+[
+  {
+    "product_id": "MLB123456789",
+    "shipping": {
+      "freeShipping": true,
+      "methods": [
+        {
+          "id": "express",
+          "name": "Mercado Envios Express",
+          "price": 0.0,
+          "estimatedDays": 1,
+          "description": "Entrega no próximo dia útil"
+        },
+        {
+          "id": "standard", 
+          "name": "Mercado Envios Padrão",
+          "price": 0.0,
+          "estimatedDays": 3,
+          "description": "Entrega em até 3 dias úteis"
+        }
+      ],
+      "origin": {
+        "city": "São Paulo",
+        "state": "SP",
+        "zipCode": "01010-000"
+      },
+      "restrictions": [],
+      "insurance": {
+        "included": true,
+        "maxValue": 5000.0
+      }
+    }
+  },
+  {
+    "product_id": "MLB987654321",
+    "shipping": {
+      "freeShipping": false,
+      "methods": [
+        {
+          "id": "standard",
+          "name": "Mercado Envios Padrão", 
+          "price": 25.90,
+          "estimatedDays": 5,
+          "description": "Entrega em até 5 dias úteis"
+        },
+        {
+          "id": "express",
+          "name": "Mercado Envios Express",
+          "price": 45.90,
+          "estimatedDays": 2,
+          "description": "Entrega em até 2 dias úteis"
+        }
+      ],
+      "origin": {
+        "city": "Rio de Janeiro",
+        "state": "RJ",
+        "zipCode": "20040-000"
+      },
+      "restrictions": ["not_available_countryside"],
+      "insurance": {
+        "included": true,
+        "maxValue": 10000.0
+      }
+    }
+  },
+  {
+    "product_id": "MLB555666777",
+    "shipping": {
+      "freeShipping": true,
+      "methods": [
+        {
+          "id": "unavailable",
+          "name": "Indisponível",
+          "price": 0.0,
+          "estimatedDays": 0,
+          "description": "Produto fora de estoque - sem previsão de envio"
+        }
+      ],
+      "origin": {
+        "city": "Belo Horizonte",
+        "state": "MG",
+        "zipCode": "30100-000"
+      },
+      "restrictions": ["product_out_of_stock"],
+      "insurance": {
+        "included": false,
+        "maxValue": 0.0
+      }
+    }
+  }
+]
