@@ -1,0 +1,72 @@
+# Git
+.git
+.gitignore
+.github
+
+# Documentation
+*.md
+docs/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven
+# **/target/  # Comentado para permitir acesso ao JAR compilado
+.mvn/
+mvnw
+mvnw.cmd
+
+# Logs
+**/logs/
+*.log
+
+# Temporary files
+**/tmp/
+**/temp/
+**/.tmp/
+
+# Test files
+**/src/test/
+**/test-results/
+**/coverage/
+
+# Docker files
+Dockerfile*
+docker-compose*.yml
+.dockerignore
+
+# Development tools
+.dev/
+scripts/
+
+# Node modules (if any)
+node_modules/
+npm-debug.log*
+
+# Python (if any)
+__pycache__/
+*.pyc
+*.pyo
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
