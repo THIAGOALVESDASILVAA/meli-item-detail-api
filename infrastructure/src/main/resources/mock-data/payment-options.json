@@ -1,0 +1,21 @@
+{
+  "max_installments": 12,
+  "interest_free_installments": 6,
+  "credit_cards": ["visa", "mastercard", "amex"],
+  "debit_cards": ["visa", "mastercard"],
+  "cash_methods": ["pix", "bank_slip"],
+  "conditions_by_bank": {
+    "santander": {
+      "interest_free_installments": 10,
+      "description": "Até 10x sem juros com Santander"
+    },
+    "bradesco": {
+      "interest_free_installments": 8,
+      "description": "Até 8x sem juros com Bradesco"
+    },
+    "itau": {
+      "interest_free_installments": 12,
+      "description": "Até 12x sem juros com Itaú"
+    }
+  }
+}
