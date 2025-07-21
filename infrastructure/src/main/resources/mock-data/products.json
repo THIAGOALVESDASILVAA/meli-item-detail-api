@@ -1,0 +1,52 @@
+[
+  {
+    "id": "MLB123456789",
+    "title": "iPhone 13 128GB Azul",
+    "price": 3299.99,
+    "condition": "new",
+    "free_shipping": true,
+    "category": "Celulares",
+    "short_description": "iPhone 13 com tela Super Retina XDR de 6,1 polegadas",
+    "created": "2023-01-15T10:30:00"
+  },
+  {
+    "id": "MLB987654321",
+    "title": "Samsung Galaxy S23 256GB Preto",
+    "price": 2899.99,
+    "condition": "new", 
+    "free_shipping": true,
+    "category": "Celulares",
+    "short_description": "Galaxy S23 com câmera tripla de 50MP e processador Snapdragon 8 Gen 2",
+    "created": "2023-02-10T14:20:00"
+  },
+  {
+    "id": "MLB456789123",
+    "title": "Notebook Dell Inspiron 15",
+    "price": 2199.99,
+    "condition": "new",
+    "free_shipping": false,
+    "category": "Computadores",
+    "short_description": "Notebook Dell com Intel Core i5, 8GB RAM e SSD 256GB",
+    "created": "2023-03-05T09:45:00"
+  },
+  {
+    "id": "MLB789123456",
+    "title": "Smart TV LG 55 4K UHD",
+    "price": 1899.99,
+    "condition": "new",
+    "free_shipping": true,
+    "category": "TV e Video",
+    "short_description": "Smart TV LG 55 polegadas com tecnologia 4K e WebOS",
+    "created": "2023-01-20T16:15:00"
+  },
+  {
+    "id": "MLB321654987",
+    "title": "Tênis Nike Air Max 270",
+    "price": 399.99,
+    "condition": "new",
+    "free_shipping": true,
+    "category": "Esportes",
+    "short_description": "Tênis Nike Air Max 270 com tecnologia Air Max e design moderno",
+    "created": "2023-02-28T11:30:00"
+  }
+]
