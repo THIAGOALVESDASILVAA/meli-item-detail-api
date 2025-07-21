@@ -1,0 +1,43 @@
+spring:
+  profiles:
+    active: rest-adapter
+    
+---
+spring:
+  config:
+    activate:
+      on-profile: rest-adapter
+  application:
+    name: meli-item-detail-rest-adapter
+
+server:
+  port: 8080
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health, info, prometheus, metrics
+
+springdoc:
+  api-docs:
+    path: /api-docs
+  swagger-ui:
+    path: /swagger-ui.html
+    
+---
+spring:
+  config:
+    activate:
+      on-profile: kafka-adapter
+  application:
+    name: meli-item-detail-kafka-adapter
+
+server:
+  port: 8081
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health, info, prometheus, metrics
