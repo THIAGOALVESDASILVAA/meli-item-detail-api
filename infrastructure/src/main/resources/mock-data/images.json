@@ -1,0 +1,99 @@
+[
+  {
+    "product_id": "MLB123456789",
+    "images": [
+      {
+        "id": "img1",
+        "url": "https://http2.mlstatic.com/D_Q_NP_123456_MLA.jpg",
+        "secure_url": "https://http2.mlstatic.com/D_Q_NP_123456_MLA.jpg",
+        "size": "500x500",
+        "max_size": "1200x1200",
+        "quality": "high"
+      },
+      {
+        "id": "img2", 
+        "url": "https://http2.mlstatic.com/D_Q_NP_123457_MLA.jpg",
+        "secure_url": "https://http2.mlstatic.com/D_Q_NP_123457_MLA.jpg",
+        "size": "500x500",
+        "max_size": "1200x1200",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "product_id": "MLB987654321",
+    "images": [
+      {
+        "id": "img3",
+        "url": "https://http2.mlstatic.com/D_Q_NP_987654_MLA.jpg",
+        "secure_url": "https://http2.mlstatic.com/D_Q_NP_987654_MLA.jpg",
+        "size": "500x500",
+        "max_size": "1200x1200",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "product_id": "MLB456789123",
+    "images": [
+      {
+        "id": "img4",
+        "url": "https://http2.mlstatic.com/D_Q_NP_456789_MLA.jpg",
+        "secure_url": "https://http2.mlstatic.com/D_Q_NP_456789_MLA.jpg",
+        "size": "500x500",
+        "max_size": "1200x1200",
+        "quality": "high"
+      },
+      {
+        "id": "img5",
+        "url": "https://http2.mlstatic.com/D_Q_NP_456790_MLA.jpg", 
+        "secure_url": "https://http2.mlstatic.com/D_Q_NP_456790_MLA.jpg",
+        "size": "500x500",
+        "max_size": "1200x1200",
+        "quality": "high"
+      },
+      {
+        "id": "img6",
+        "url": "https://http2.mlstatic.com/D_Q_NP_456791_MLA.jpg",
+        "secure_url": "https://http2.mlstatic.com/D_Q_NP_456791_MLA.jpg", 
+        "size": "500x500",
+        "max_size": "1200x1200",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "product_id": "MLB789123456",
+    "images": [
+      {
+        "id": "img7",
+        "url": "https://http2.mlstatic.com/D_Q_NP_789123_MLA.jpg",
+        "secure_url": "https://http2.mlstatic.com/D_Q_NP_789123_MLA.jpg",
+        "size": "500x500", 
+        "max_size": "1200x1200",
+        "quality": "high"
+      }
+    ]
+  },
+  {
+    "product_id": "MLB321654987",
+    "images": [
+      {
+        "id": "img8",
+        "url": "https://http2.mlstatic.com/D_Q_NP_321654_MLA.jpg",
+        "secure_url": "https://http2.mlstatic.com/D_Q_NP_321654_MLA.jpg",
+        "size": "500x500",
+        "max_size": "1200x1200", 
+        "quality": "high"
+      },
+      {
+        "id": "img9",
+        "url": "https://http2.mlstatic.com/D_Q_NP_321655_MLA.jpg",
+        "secure_url": "https://http2.mlstatic.com/D_Q_NP_321655_MLA.jpg",
+        "size": "500x500",
+        "max_size": "1200x1200",
+        "quality": "high"
+      }
+    ]
+  }
+]

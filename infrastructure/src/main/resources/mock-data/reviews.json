@@ -1,0 +1,99 @@
+[
+  {
+    "product_id": "MLB123456789", 
+    "reviews": [
+      {
+        "id": "rev1",
+        "rating": 5,
+        "title": "Excelente produto!",
+        "text": "iPhone funcionando perfeitamente, entrega rápida e produto original.",
+        "reviewer": "João Silva",
+        "date": "2023-04-15T14:30:00",
+        "helpful_votes": 12
+      },
+      {
+        "id": "rev2",
+        "rating": 4,
+        "title": "Muito bom",
+        "text": "Produto conforme anunciado, apenas a embalagem chegou um pouco amassada.",
+        "reviewer": "Maria Santos", 
+        "date": "2023-04-20T09:15:00",
+        "helpful_votes": 8
+      }
+    ]
+  },
+  {
+    "product_id": "MLB987654321",
+    "reviews": [
+      {
+        "id": "rev3", 
+        "rating": 5,
+        "title": "Galaxy S23 incrível",
+        "text": "Câmera excelente, performance top e bateria dura o dia todo.",
+        "reviewer": "Pedro Costa",
+        "date": "2023-05-01T16:45:00",
+        "helpful_votes": 15
+      }
+    ]
+  },
+  {
+    "product_id": "MLB456789123",
+    "reviews": [
+      {
+        "id": "rev4",
+        "rating": 4,
+        "title": "Notebook bom para trabalho", 
+        "text": "Roda bem os programas de escritório, só poderia ter mais RAM.",
+        "reviewer": "Ana Oliveira",
+        "date": "2023-05-10T11:20:00",
+        "helpful_votes": 6
+      },
+      {
+        "id": "rev5",
+        "rating": 3,
+        "title": "Mediano",
+        "text": "Cumpre o que promete, mas esperava mais pela marca Dell.",
+        "reviewer": "Carlos Lima",
+        "date": "2023-05-15T13:30:00", 
+        "helpful_votes": 4
+      }
+    ]
+  },
+  {
+    "product_id": "MLB789123456",
+    "reviews": [
+      {
+        "id": "rev6",
+        "rating": 5,
+        "title": "TV excelente",
+        "text": "Imagem 4K perfeita, smart TV responsiva e fácil instalação.",
+        "reviewer": "Roberto Ferreira",
+        "date": "2023-05-20T15:45:00",
+        "helpful_votes": 20
+      }
+    ]
+  },
+  {
+    "product_id": "MLB321654987",
+    "reviews": [
+      {
+        "id": "rev7",
+        "rating": 4,
+        "title": "Tênis confortável",
+        "text": "Muito confortável para corrida, design bonito e boa qualidade.", 
+        "reviewer": "Fernanda Dias",
+        "date": "2023-05-25T10:15:00",
+        "helpful_votes": 7
+      },
+      {
+        "id": "rev8", 
+        "rating": 5,
+        "title": "Nike sempre entrega",
+        "text": "Qualidade Nike, super recomendo. Chegou antes do prazo.",
+        "reviewer": "Lucas Mendes",
+        "date": "2023-05-28T12:00:00",
+        "helpful_votes": 9
+      }
+    ]
+  }
+]

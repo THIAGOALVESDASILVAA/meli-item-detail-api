@@ -1,0 +1,89 @@
+[
+  {
+    "product_id": "MLB123456789",
+    "seller": {
+      "id": "seller001",
+      "name": "Samsung Store",
+      "reputation": "platinum",
+      "location": {
+        "city": "São Paulo",
+        "state": "SP",
+        "country": "Brasil"
+      },
+      "contact": {
+        "phone": "+55 11 4000-4000",
+        "email": "contato@samsungstore.com.br"
+      },
+      "metrics": {
+        "salesCount": 15420,
+        "positiveRating": 98.5,
+        "negativeRating": 1.5,
+        "cancellationRate": 0.8,
+        "delayRate": 2.1
+      },
+      "registration": {
+        "memberSince": "2018-03-15",
+        "businessType": "official_store",
+        "verified": true
+      }
+    }
+  },
+  {
+    "product_id": "MLB987654321", 
+    "seller": {
+      "id": "seller002",
+      "name": "Dell Official",
+      "reputation": "gold",
+      "location": {
+        "city": "Rio de Janeiro",
+        "state": "RJ",
+        "country": "Brasil"
+      },
+      "contact": {
+        "phone": "+55 21 3000-3000",
+        "email": "vendas@dellofficial.com.br"
+      },
+      "metrics": {
+        "salesCount": 8900,
+        "positiveRating": 96.2,
+        "negativeRating": 3.8,
+        "cancellationRate": 1.2,
+        "delayRate": 3.5
+      },
+      "registration": {
+        "memberSince": "2019-11-22",
+        "businessType": "official_store",
+        "verified": true
+      }
+    }
+  },
+  {
+    "product_id": "MLB555666777",
+    "seller": {
+      "id": "seller003",
+      "name": "JBL Store",
+      "reputation": "silver",
+      "location": {
+        "city": "Belo Horizonte",
+        "state": "MG", 
+        "country": "Brasil"
+      },
+      "contact": {
+        "phone": "+55 31 2500-2500",
+        "email": "atendimento@jblstore.com.br"
+      },
+      "metrics": {
+        "salesCount": 3200,
+        "positiveRating": 94.8,
+        "negativeRating": 5.2,
+        "cancellationRate": 2.1,
+        "delayRate": 4.2
+      },
+      "registration": {
+        "memberSince": "2020-08-10",
+        "businessType": "official_store",
+        "verified": true
+      }
+    }
+  }
+]

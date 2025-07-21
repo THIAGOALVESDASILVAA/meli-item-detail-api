@@ -1,0 +1,101 @@
+[
+  {
+    "product_id": "MLB123456789",
+    "variations": [
+      {
+        "id": "var001",
+        "type": "color",
+        "name": "Cor",
+        "options": [
+          {
+            "id": "color-black",
+            "name": "Preto",
+            "value": "black",
+            "available": true,
+            "priceModifier": 0.0
+          },
+          {
+            "id": "color-blue",
+            "name": "Azul",
+            "value": "blue",
+            "available": true,
+            "priceModifier": 0.0
+          }
+        ]
+      },
+      {
+        "id": "var002",
+        "type": "storage",
+        "name": "Armazenamento",
+        "options": [
+          {
+            "id": "storage-128",
+            "name": "128GB",
+            "value": "128gb",
+            "available": true,
+            "priceModifier": 0.0
+          },
+          {
+            "id": "storage-256",
+            "name": "256GB",
+            "value": "256gb",
+            "available": true,
+            "priceModifier": 200.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product_id": "MLB987654321",
+    "variations": [
+      {
+        "id": "var003",
+        "type": "memory",
+        "name": "Memória RAM",
+        "options": [
+          {
+            "id": "memory-8",
+            "name": "8GB",
+            "value": "8gb",
+            "available": true,
+            "priceModifier": 0.0
+          },
+          {
+            "id": "memory-16",
+            "name": "16GB",
+            "value": "16gb",
+            "available": true,
+            "priceModifier": 300.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "product_id": "MLB555666777",
+    "variations": [
+      {
+        "id": "var004",
+        "type": "color",
+        "name": "Cor",
+        "options": [
+          {
+            "id": "color-white",
+            "name": "Branco",
+            "value": "white",
+            "available": true,
+            "priceModifier": 0.0
+          },
+          {
+            "id": "color-black",
+            "name": "Preto",
+            "value": "black",
+            "available": false,
+            "priceModifier": 0.0
+          }
+        ]
+      }
+    ]
+  }
+]
