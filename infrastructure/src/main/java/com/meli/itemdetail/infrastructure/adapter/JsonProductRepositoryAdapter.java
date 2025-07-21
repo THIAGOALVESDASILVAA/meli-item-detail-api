@@ -44,7 +44,6 @@ public class JsonProductRepositoryAdapter implements ProductRepositoryPort {
             productCache.putAll(products.stream()
                     .collect(Collectors.toMap(Product::getId, product -> product)));
 
-            // Popular brandCache agrupando produtos por categoria (como proxy de brand)
             products.stream()
                     .filter(product -> product.getCategory() != null)
                     .collect(Collectors.groupingBy(Product::getCategory))

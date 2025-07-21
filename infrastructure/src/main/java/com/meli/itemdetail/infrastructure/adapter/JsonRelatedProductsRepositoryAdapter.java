@@ -68,8 +68,8 @@ public class JsonRelatedProductsRepositoryAdapter implements RelatedProductsRepo
                 (String) data.get("id"),
                 (String) data.get("title"),
                 new BigDecimal(data.get("price").toString()),
-                BigDecimal.ZERO, // discountPercentage - não disponível no JSON
-                null, // installment - não disponível no JSON
+                BigDecimal.ZERO, // discountPercentage
+                null,
                 (String) data.get("image"));
     }
 }

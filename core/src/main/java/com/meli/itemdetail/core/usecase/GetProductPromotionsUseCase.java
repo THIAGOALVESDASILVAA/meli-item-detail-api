@@ -14,10 +14,7 @@ public class GetProductPromotionsUseCase {
     public ProductPromotions execute(String productId) {
         ProductPromotions promotions = productPromotionsRepositoryPort.findByProductId(productId);
 
-        // TODO: Apply promotion rules and discount calculations
-        // TODO: Validate coupon codes and apply discounts
-        // TODO: Calculate bundle discounts and special offers
-        // TODO: Apply time-based promotions and flash sales
+        // TODO: live
 
         return promotions;
     }
