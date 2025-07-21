@@ -1,0 +1,113 @@
+[
+  {
+    "product_id": "MLB123456789",
+    "technicalSpecs": {
+      "general": {
+        "brand": "Samsung",
+        "model": "Galaxy A54 5G",
+        "category": "Smartphone",
+        "launchYear": "2023"
+      },
+      "display": {
+        "size": "6.4 inches",
+        "resolution": "2340 x 1080 pixels",
+        "technology": "Super AMOLED",
+        "refreshRate": "120Hz",
+        "protection": "Gorilla Glass 5"
+      },
+      "processor": {
+        "chipset": "Samsung Exynos 1380",
+        "cpu": "Octa-core",
+        "gpu": "Mali-G68 MP5"
+      },
+      "memory": {
+        "ram": "6GB",
+        "storage": "128GB",
+        "expandable": "up to 1TB via microSD"
+      },
+      "camera": {
+        "rear": "50MP + 12MP + 5MP",
+        "front": "32MP",
+        "video": "4K@30fps"
+      },
+      "connectivity": {
+        "network": "5G, 4G LTE",
+        "wifi": "Wi-Fi 802.11 a/b/g/n/ac",
+        "bluetooth": "5.3",
+        "usb": "USB Type-C"
+      }
+    }
+  },
+  {
+    "product_id": "MLB987654321",
+    "technicalSpecs": {
+      "general": {
+        "brand": "Dell",
+        "model": "Inspiron 15 3000",
+        "category": "Notebook",
+        "launchYear": "2023"
+      },
+      "display": {
+        "size": "15.6 inches",
+        "resolution": "1366 x 768 pixels",
+        "technology": "LCD LED",
+        "refreshRate": "60Hz",
+        "antiGlare": "Yes"
+      },
+      "processor": {
+        "chipset": "Intel Core i5-1135G7",
+        "cores": "4 cores, 8 threads",
+        "baseFreq": "2.4GHz",
+        "maxFreq": "4.2GHz"
+      },
+      "memory": {
+        "ram": "8GB DDR4",
+        "storage": "256GB SSD M.2",
+        "maxRam": "32GB"
+      },
+      "graphics": {
+        "integrated": "Intel Iris Xe Graphics",
+        "vram": "Shared"
+      },
+      "connectivity": {
+        "wifi": "Wi-Fi 802.11ac",
+        "bluetooth": "5.0",
+        "usb": "2x USB 3.2, 1x USB 2.0",
+        "hdmi": "HDMI 1.4"
+      }
+    }
+  },
+  {
+    "product_id": "MLB555666777",
+    "technicalSpecs": {
+      "general": {
+        "brand": "JBL",
+        "model": "Tune 510BT",
+        "category": "Headphones",
+        "launchYear": "2023"
+      },
+      "audio": {
+        "drivers": "32mm dynamic",
+        "frequency": "20Hz - 20kHz",
+        "impedance": "32 ohm",
+        "sensitivity": "103dB SPL@1kHz"
+      },
+      "connectivity": {
+        "bluetooth": "5.0",
+        "range": "10m",
+        "profiles": "A2DP, AVRCP, HFP, HSP"
+      },
+      "battery": {
+        "capacity": "610mAh",
+        "playback": "40 hours",
+        "charging": "USB Type-C",
+        "fastCharge": "5 min = 2 hours"
+      },
+      "physical": {
+        "weight": "160g",
+        "foldable": "Yes",
+        "controls": "On-ear buttons"
+      }
+    }
+  }
+]
