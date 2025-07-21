@@ -1,0 +1,41 @@
+[
+  {
+    "brand": "Samsung",
+    "products": [
+      {
+        "id": "MLB123456789",
+        "title": "Smartphone Samsung Galaxy A54",
+        "price": 1299.99,
+        "image": "https://http2.mlstatic.com/D_Q_NP_123456_MLB123456789_1.jpg",
+        "category": "Celulares",
+        "stock": 15
+      }
+    ]
+  },
+  {
+    "brand": "Dell",
+    "products": [
+      {
+        "id": "MLB987654321",
+        "title": "Notebook Dell Inspiron 15",
+        "price": 2499.99,
+        "image": "https://http2.mlstatic.com/D_Q_NP_987654_MLB987654321_1.jpg",
+        "category": "Notebooks",
+        "stock": 8
+      }
+    ]
+  },
+  {
+    "brand": "JBL",
+    "products": [
+      {
+        "id": "MLB555666777",
+        "title": "JBL Tune 510BT Headphones",
+        "price": 199.99,
+        "image": "https://http2.mlstatic.com/D_Q_NP_555666_MLB555666777_1.jpg",
+        "category": "Áudio",
+        "stock": 0
+      }
+    ]
+  }
+]
