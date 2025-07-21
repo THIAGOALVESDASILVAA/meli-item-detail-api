@@ -1,0 +1,60 @@
+[
+  {
+    "product_id": "MLB123456789",
+    "promotions": [
+      {
+        "id": "promo001",
+        "type": "discount",
+        "title": "Desconto de Lançamento",
+        "description": "15% de desconto para pagamento via PIX",
+        "discountPercentage": 15.0,
+        "validFrom": "2025-07-01T00:00:00Z",
+        "validUntil": "2025-07-31T23:59:59Z",
+        "conditions": ["payment_method_pix"],
+        "active": true
+      },
+      {
+        "id": "promo002", 
+        "type": "installment",
+        "title": "Parcelamento sem Juros",
+        "description": "Até 6x sem juros no cartão de crédito",
+        "maxInstallments": 6,
+        "interestFree": true,
+        "validFrom": "2025-07-01T00:00:00Z",
+        "validUntil": "2025-12-31T23:59:59Z",
+        "conditions": ["payment_method_credit_card"],
+        "active": true
+      }
+    ]
+  },
+  {
+    "product_id": "MLB987654321",
+    "promotions": [
+      {
+        "id": "promo003",
+        "type": "installment",
+        "title": "Parcelamento Estendido",
+        "description": "Até 12x sem juros",
+        "maxInstallments": 12,
+        "interestFree": true,
+        "validFrom": "2025-07-15T00:00:00Z", 
+        "validUntil": "2025-08-31T23:59:59Z",
+        "conditions": ["payment_method_credit_card"],
+        "active": true
+      }
+    ]
+  },
+  {
+    "product_id": "MLB555666777",
+    "promotions": [
+      {
+        "id": "promo004",
+        "type": "discount",
+        "title": "Produto em Falta",
+        "description": "Sem promoções ativas - produto em falta",
+        "discountPercentage": 0.0,
+        "active": false
+      }
+    ]
+  }
+]
