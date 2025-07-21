@@ -1,0 +1,71 @@
+[
+  {
+    "product_id": "MLB123456789",
+    "description": {
+      "title": "Smartphone Samsung Galaxy A54 - Descrição Completa",
+      "fullDescription": "O Samsung Galaxy A54 5G é um smartphone que combina design elegante com performance excepcional. Equipado com uma tela Super AMOLED de 6.4 polegadas, processador Exynos 1380 e sistema de câmera tripla com sensor principal de 50MP, oferece uma experiência fotográfica impressionante. A bateria de 5000mAh garante uso durante todo o dia, enquanto o carregamento rápido de 25W proporciona conveniência adicional.",
+      "features": [
+        "Tela Super AMOLED 6.4\" FHD+",
+        "Processador Exynos 1380",
+        "Câmera tripla 50MP + 12MP + 5MP",
+        "Bateria 5000mAh com carregamento rápido 25W",
+        "Memória interna 128GB expansível",
+        "RAM 6GB",
+        "Android 13 com One UI 5.1"
+      ],
+      "warranty": "12 meses de garantia oficial Samsung",
+      "dimensions": {
+        "height": "158.2mm",
+        "width": "76.7mm",
+        "depth": "8.2mm",
+        "weight": "202g"
+      }
+    }
+  },
+  {
+    "product_id": "MLB987654321",
+    "description": {
+      "title": "Notebook Dell Inspiron 15 3000 - Especificações Completas",
+      "fullDescription": "O Dell Inspiron 15 3000 é ideal para trabalho, estudos e entretenimento. Com processador Intel Core i5 de 11ª geração, 8GB de RAM DDR4 e SSD de 256GB, oferece performance ágil para multitarefas. A tela de 15.6 polegadas HD proporciona uma experiência visual confortável, enquanto o design fino e leve facilita o transporte.",
+      "features": [
+        "Processador Intel Core i5-1135G7",
+        "8GB RAM DDR4 2666MHz",
+        "SSD 256GB M.2 PCIe",
+        "Tela 15.6\" HD (1366x768)",
+        "Placa de vídeo Intel Iris Xe",
+        "Wi-Fi 802.11ac + Bluetooth 5.0",
+        "Windows 11 Home"
+      ],
+      "warranty": "12 meses de garantia oficial Dell",
+      "dimensions": {
+        "height": "18.0mm",
+        "width": "358.5mm",
+        "depth": "235.0mm",
+        "weight": "1.85kg"
+      }
+    }
+  },
+  {
+    "product_id": "MLB555666777",
+    "description": {
+      "title": "JBL Tune 510BT - Fones de Ouvido Bluetooth",
+      "fullDescription": "Os fones de ouvido JBL Tune 510BT oferecem o famoso som JBL Pure Bass com conectividade Bluetooth 5.0. Com até 40 horas de bateria e carregamento rápido, são ideais para uso prolongado. O design dobrável e leve proporciona conforto durante longas sessões de escuta, enquanto o microfone integrado permite chamadas hands-free.",
+      "features": [
+        "Som JBL Pure Bass",
+        "Conectividade Bluetooth 5.0",
+        "Bateria até 40 horas",
+        "Carregamento rápido (2h de música em 5 min)",
+        "Design dobrável e leve",
+        "Microfone integrado",
+        "Controles no fone"
+      ],
+      "warranty": "12 meses de garantia oficial JBL",
+      "dimensions": {
+        "height": "170mm",
+        "width": "150mm",
+        "depth": "60mm",
+        "weight": "160g"
+      }
+    }
+  }
+]
